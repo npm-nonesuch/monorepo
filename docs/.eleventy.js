@@ -5,11 +5,9 @@ module.exports = function (eleventyConfig) {
     // return configuration object
     return {
         //pathPrefix: '/monorepo/', // useful if publishing to ghpages
-
-        //
         dir: {
-            input: '../',
-            output: '../_site',
-        },
+            //input: '.',
+            //output: '_site',
+        }
     };
 };

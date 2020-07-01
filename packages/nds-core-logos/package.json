@@ -1,0 +1,14 @@
+{
+  "name": "@nonesuch/nds-core-logos",
+  "version": "0.0.1",
+  "description": "3rd-party logos (internal consumption ONLY!)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "UNLICENSED",
+  "private": true,
+  "publishConfig": {
+    "access": "restrictred"
+  }
+}

@@ -1,3 +1,9 @@
 .DS_Store
-.swp
+*.sw*
+node_modules/
+_local/
 _tmp/
+yarn-error.log
+
+# 11ty output
+_site/
