@@ -1,0 +1,11 @@
+{
+  "name": "@nonesuch/nds-core-utils",
+  "version": "0.0.3",
+  "description": "NDS Core Utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
