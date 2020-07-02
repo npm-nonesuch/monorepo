@@ -20,6 +20,9 @@ docs to get familiar with the basic concepts.
 * If you need to add a non-workspace directory to version control,
   prefix it with an underscore (e.g. `_save/`) to denote that it is
   NOT a workspace.
+* README.md files reserved for information required for development 
+  within the monorepo.  These are ignored by 11ty and will not show
+  up in the generated documentation.
 
 
 ## Ecosystem
